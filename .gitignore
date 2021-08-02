@@ -1,0 +1,5 @@
+#ignore .vagrant .log
+
+ubuntu-server-no1/.vagrant/*
+
+ubuntu-server-no1/*.log
