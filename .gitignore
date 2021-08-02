@@ -3,3 +3,11 @@
 ubuntu-server-no1/.vagrant/*
 
 ubuntu-server-no1/*.log
+
+ubuntu-server-no2/.vagrant/*
+
+ubuntu-server-no2/*.log
+
+ubuntu-server-no3/.vagrant/*
+
+ubuntu-server-no3/*.log
